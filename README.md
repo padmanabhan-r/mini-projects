@@ -1,1 +1,1 @@
-# mini-project
+# Some mini projects I tried
